@@ -25,3 +25,6 @@ The main objective of this cource is to give students the basic idea about AI an
 
 #### 6. Computer vision
    - Basic introduction and hands on training, Computer vision 
+
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pCWH5OW9lDo/0.jpg)](http://www.youtube.com/watch?v=pCWH5OW9lDo)
